@@ -1,5 +1,5 @@
-# CKMedoidsTreeClustering
-A new fast method for building multiple consensus trees using k-medoids
+# CKMeansTreeClustering
+A new fast method for building multiple consensus trees using k-means
 
 # About
 	=> =============================================================================================================
@@ -30,7 +30,7 @@ A new fast method for building multiple consensus trees using k-medoids
 	=> For trees: ./KMTC -tree input_file criterion
 	
 	Input_file - the input file for the program 
-	criterion - the criterion for the k-medoids algorithm (1, 2, 3 or 4, see below)
+	criterion - the criterion for the k-means algorithm (1, 2, 3 or 4, see below)
 	
 	Command line execution:
 	./KMTC -tree ../input/input.tre 3
