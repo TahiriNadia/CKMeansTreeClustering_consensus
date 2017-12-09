@@ -1,0 +1,10 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=16
+#PBS -l walltime=250:00:00
+#PBS -l pmem=7700m
+#PBS -N all_data
+cd $PBS_O_WORKDIR
+export OMP_NUM_THREADS=16
+
+echo 8 species with k between 1 and 5...
+./cSuperTree -simulation 8 0 100 1

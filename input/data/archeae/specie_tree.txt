@@ -1,0 +1,1 @@
+(((Aeropyrum_:1.0,Sulfolobus:1.0):1.0,Pyrobaculu:1.0):10.0,(((Pyrococcu0:1.0,Pyrococcus:1.0):1.0,Pyrococcu1:1.0):1.0,((Methanococ:1.0,Methanobac:1.0):1.0,((Thermoplas:1.0,Ferroplasm:1.0):1.0,(((Halobacter:1.0,Haloarcula:1.0):1.0,Methanosar:1.0):1.0,Archaeoglo:1.0):1.0):1.0):1.0):1.0);
